@@ -44,5 +44,5 @@ app.use("/users", (req, res) => {
 });
 
 app.listen(5000, () => {
-  console.log("server yurdi");
+  console.log("server yurdi...");
 });
