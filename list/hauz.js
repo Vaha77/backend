@@ -1,6 +1,6 @@
 // import av from "./bk.jpg";
 
-const list = [
+const hauz = [
   { id: 1, name: Vokhidjon, first: Rakhimov, img: "av" },
   { id: 2, name: Jamshid, first: Hechlim, img: "as" },
   { id: 3, name: hechkimboy, first: Jam, img: "aa" },
@@ -13,4 +13,4 @@ const list = [
   // { id: 10, name: Vokhidjon, first: Rakhimov, img: "av" },
 ];
 
-module.exports = list;
+module.exports = hauz;
