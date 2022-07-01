@@ -5,10 +5,10 @@ const app = express();
 
 app.use(cors());
 
-const hauz = require(`./list/hauz`);
+// const hauz = require(`./list/hauz`);
 
 app.get("/", (req, res, next) => {
-  res.json(hauz);
+  res.json("./list/hauz");
 });
 // { id: 1, name: "Rakhimov", title: "Vaxa1" },
 //     { id: 2, name: "Rakhimo", title: "Vaxa2" },

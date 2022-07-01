@@ -12,6 +12,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.1",
+    "lsof": "^0.1.0",
     "tar": "^6.1.11"
   },
   "devDependencies": {
